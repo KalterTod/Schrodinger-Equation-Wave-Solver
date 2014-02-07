@@ -1,6 +1,0 @@
-I plan to model bound-state wave functions for arbitrary potential functions and plot them using a finite-difference
-algorithm approximating the second derivative. In order to plot these functions however, I will also need to find the
-associated energy eigenvalues. I plan to do this via the so-called shooting method, combined with the bisection method. 
-I will be looking at the Harmonic and Infinite Square Well potentials as my analytical results for comparison to show that
-the algorithm is working. And then I plan to delve into more complicated functions, such as the Morse Potential and 
-higher order anharmonic oscillator potentials. 
